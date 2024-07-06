@@ -1,3 +1,3 @@
 # web_demo
-first repositery
-Author-Urvashi
+first repository
+,Author-Urvashi
