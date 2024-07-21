@@ -1,0 +1,263 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+#navbar{
+    width:100%;
+    height:50px;
+    background-color: black;
+    list-style-type:none;
+    position: fixed;
+    top:0px;
+   z-index: 1;
+}
+#navbar li{
+    float:left
+}
+li a:hover{
+    background-color:whitesmoke;
+
+    /* text-transform: uppercase; */
+    /* float:left; */
+    
+}
+li a{
+    display:flex;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    padding-left:250px;
+    padding-top: 8px;
+    /* text-rgb:(202, 200, 200); */
+}
+#main{
+    width:100%;
+    height:500px;
+    background-image: url("https://img.freepik.com/premium-photo/abstract-blur-interior-coffee-shop-cafe-back_590200-8042.jpg?w=1060");
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+}
+#head_1{
+    color: rgb(0, 0, 0);
+    position:absolute;
+    top:200px;
+    left:47%;
+    font-size: 50px;
+}
+#head_2{
+    color: black;
+    position:absolute;
+    top:260px;
+    left:47%;
+    font-size: 50px;
+    
+}
+
+#para_1{
+    background-color: black;
+    color: white;
+    position:absolute;
+    left:40px;
+    top:92%;
+    font-size: 18px;
+}
+#para_2{
+    background-color: black;
+    color: white;
+    position:absolute;
+    left:85%;
+    top:92%;
+    font-size: 18px;
+}
+#main1{
+    width:100%;
+    height: 1700px;
+    position: relative;
+}
+span{
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: absolute;
+    top:50px;
+    left:46%;
+    font-size:20px;  
+}
+#para_3{
+    text-align: center;
+    font-size: 20px;
+    position: absolute;
+    top:100px;
+    left:25%;
+    right:25%;
+    align-content: start;
+    word-spacing: 5px;
+    text-align: left;
+}
+#para_4{
+    text-align: center;
+    font-size: 20px;
+    position: absolute;
+    top:220px;
+    left:25%;
+    right:25%;
+    align-content: start;
+    word-spacing: 5px;
+    text-align: left;
+}
+#effect{
+    width:5px;
+    height:25%;
+    background-color: antiquewhite;
+    position: absolute;
+    top:320px;
+    left:24.5%;
+    float:left;
+    align-content: start;
+    word-spacing: 5px;
+    text-align: left;
+    font-size: 22px;
+    font-style: italic;
+}
+#light_effect{
+    width:50%;
+    height: 25%;
+    position: absolute;
+    top:320px;
+    left:25%;
+    background-color: aliceblue;
+    align-content: start;
+    word-spacing: 5px;
+    text-align: left;
+    font-size: 22px;
+    font-style: italic;
+}
+#para_5{
+    padding-top: 14px;
+    box-sizing: border-box;
+}
+#main1 img{
+    width:50%;
+    height: 400px;
+    position: absolute;
+    top:500px;
+    left:25%;
+}
+#para_6{
+    position: absolute;
+    top:920px;
+    left:25%;
+    font-size: larger;
+}
+#para_7{
+    position: absolute;
+    top:950px;
+    left:25%;
+    font-size: larger;
+}
+#head_3{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top:1050px;
+    left:47%;
+
+}
+#main3{
+    width:50%;
+    height: 600px;
+    position:absolute;
+    top:1600px;
+    left:25%;
+    box-shadow:1px 1px 1px 3px lightblue;
+}
+#eat1 ,#drink1{
+    width:50%;
+    height: 30px;
+    text-align: center;
+    background-color: rgb(225, 237, 245);
+    float:left;
+}
+#eat_menu h3{
+    font-size: larger;
+
+}
+#eat_menu p{
+    font-size: large;
+    color: grey;
+
+}
+#drink_menu{
+    display:none;
+}
+#drink_menu h3{
+    color: black;
+    font-size: larger;
+
+}#drink_menu p{
+    font-size: large;
+    color: gray;
+
+}
+#head_4{
+    background-color: black;
+    color: white;
+    position: absolute;
+}
+#main4{
+    width:100%;
+    height: 1900px;
+    position: relative;
+    
+}
+#main4 img{
+padding-left: 25%;
+padding-top: 20px;
+box-sizing: border-box;
+width:75%;
+height: 500px;;
+}
+#main4 h2{
+    background-color: black;
+    color: white;
+    margin-left: 43%;
+    box-sizing: border-box;
+    
+}
+#main4 p{
+    margin: 1% 25%;
+    box-sizing: border-box;
+    font-size: larger;
+    color: grey;
+    word-spacing: 5px;
+}
+#main4 i{
+    background-color: black;
+    color: white;
+    padding: 2px;
+}
+#main4 b{
+    color: black;
+}
+.form{
+    width:50%;
+    height: 50px;
+    margin-left: 25%;
+    margin-top: 20px;
+}
+.b1{
+    background-color: black;
+    color: white;
+    margin-left: 25%;
+    width:8%;
+    height:40px;
+    font-size:15px;
+}
+#last{
+    color: black;
+    margin-left: 42%;
+    box-sizing: border-box;
+}
