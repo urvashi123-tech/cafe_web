@@ -1,2 +1,2 @@
-# cafe_webpage
-This webpage contain a clean and modern design with a aesthetic background image and animated pop up modules .Technologies Used: HTML, CSS ,JavaScript.
+# cafe_web
+This webpage contain a clean and modern design which make sure that you Stay updated on our latest evnts. it contain a menu list which provide you two options one for eat and another for drink items which are display according to option you select you just need to click on either drink or eat button.it also have a form fields using them a person can easily reserved tere seat.Technologies Used: HTML, CSS ,JavaScript.
